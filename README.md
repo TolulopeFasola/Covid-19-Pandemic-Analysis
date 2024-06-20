@@ -1,7 +1,7 @@
 # Covid-19-Pandemic-Analysis
 ## Project Overview
 
-This analysis gives insights and understanding of the covid-19 pandemic. For this project, I utilized Power BI, power query to clean, analyze and visualize the data set from world data called Covid-19 complete clean. The data set consists of data from Jan 2020 – July 2020. The report contains an overview of the Covid-19 pandemic, followed by a detailed analysis of the Covid-19 data collected from various countries.  [Click here](https://app.powerbi.com/view r=eyJrIjoiYTQ3YjVmY2MtOTY5NC00OTFjLWJiZTAtOTU5MTJkMmNmZTViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to view interactive dashboard.
+This analysis gives insights and understanding of the covid-19 pandemic. For this project, I utilized Power BI, power query to clean, analyze and visualize the data set from world data called Covid-19 complete clean. The data set consists of data from Jan 2020 – July 2020. The report contains an overview of the Covid-19 pandemic, followed by a detailed analysis of the Covid-19 data collected from various countries. [Click here](https://app.powerbi.com/view?r=eyJrIjoiYTQ3YjVmY2MtOTY5NC00OTFjLWJiZTAtOTU5MTJkMmNmZTViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to view interactive dashboard.
 
 ## Data Source
 
