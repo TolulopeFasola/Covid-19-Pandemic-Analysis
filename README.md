@@ -5,7 +5,7 @@ This analysis gives insights and understanding of the covid-19 pandemic. For thi
 
 ## Data Source
 
-The data set used for this analysis is the “Covid19 clean.csv”, was gotten from Kaggle. This file contain information about total death, active, active, recovered cases. The data also includes countries the pandemic affected.
+The data set used for this analysis is the “Covid-19 clean.csv”, was gotten from Kaggle. This file contain information about total death, active, recovered and confirmed cases. The data also includes countries the pandemic affected.
 
 ## Tools and skills
 
@@ -25,7 +25,7 @@ The data set used for this analysis is the “Covid19 clean.csv”, was gotten f
 
 ## Insights
 
-- From January to July 2020, total 829 million cases were confirmed, 388 million recovered, 397 active cases and 43 million deaths were recorded.
+- From January to July 2020, total of 829 million cases were confirmed, 388 million recovered, 397 active cases and 43 million deaths were recorded.
 - July recorded the highest recovery cases.
 - US is the state with the highest recovery rate of 56 million. US also recorded the highest death, confirmed cases and active cases.
 - From the analysis, July is seen with the highest cases of death, active, recovered and confirmed cases.
